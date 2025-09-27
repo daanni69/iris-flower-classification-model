@@ -46,11 +46,12 @@ Iris-Classification/
 ├─ data/
 │   └─ iris.csv
 ├─ notebooks/
-│   └─ iris_eda.ipynb
+│   └─ iris_data_model.ipynb
 ├─ models/
-│   └─ svm_pipeline.pkl
+│   └─ iris_best_pipeline.joblib
 ├─ plots/
-│   └─ feature_analysis.png
+│
+└─ requirement.txt
 ├─ app.py  (optional Streamlit app)
 └─ README.md
 
